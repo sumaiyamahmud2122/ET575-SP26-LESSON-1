@@ -1,0 +1,20 @@
+
+Problem 1
+
+Using iomanip and cout, print out your initials in Large letter format.
+Here is an example using my initials.
+
+
+
+
+
+***    ***     **********
+***   ***      **********
+***  ***       ***
+*** ***        ***
+******         ***
+*** ***        ***
+***  ***       ***
+***   ***      **********
+***    ***     **********
+
